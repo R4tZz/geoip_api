@@ -1,4 +1,4 @@
-# Geolocation API
+# GeoIP API
 
 ## Introduction
 This API adds, deletes and provides the geolocation of a given ip or url.
