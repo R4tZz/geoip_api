@@ -138,7 +138,6 @@ erDiagram
         INTEGER ContinentId
     }
 
-    Scopes||--o{  GeoAPIUsers : "foreign key"
     Country||--o{  Location : "foreign key"
     Region ||--o{ Location : "foreign key"
     Continent ||--o{ Location : "foreign key"
